@@ -27,3 +27,4 @@ Sitio web institucional desarrollado para la práctica de administración de pro
 │   ├── servicios.png
 │   └── contacto.png
 └── README.md
+![image alt](https://github.com/OmegaDStar11/WEB-PYME/blob/a3d435c22f425da9d9e57e10c8a77c658b7853a7/img/inicio.png)
