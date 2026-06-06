@@ -27,10 +27,3 @@ Sitio web institucional desarrollado para la práctica de administración de pro
 │   ├── servicios.png
 │   └── contacto.png
 └── README.md
-<<<<<<< HEAD
-* ![Inicio](img/inicio.png)
-* ![Nosotros](img/nosotros.png)
-* ![Servicios](img/servicios.png)
-* ![Contacto](img/contacto.png)
-=======
->>>>>>> c99cc854ede29c7e5a929055531596570d16eb02
